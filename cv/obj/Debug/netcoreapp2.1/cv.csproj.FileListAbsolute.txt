@@ -1,0 +1,14 @@
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\obj\Debug\netcoreapp2.1\cv.csprojAssemblyReference.cache
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\obj\Debug\netcoreapp2.1\cv.csproj.CoreCompileInputs.cache
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\obj\Debug\netcoreapp2.1\cv.RazorAssemblyInfo.cache
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\obj\Debug\netcoreapp2.1\cv.RazorAssemblyInfo.cs
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\obj\Debug\netcoreapp2.1\cv.AssemblyInfoInputs.cache
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\obj\Debug\netcoreapp2.1\cv.AssemblyInfo.cs
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\bin\Debug\netcoreapp2.1\cv.deps.json
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\bin\Debug\netcoreapp2.1\cv.runtimeconfig.json
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\bin\Debug\netcoreapp2.1\cv.runtimeconfig.dev.json
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\bin\Debug\netcoreapp2.1\cv.dll
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\bin\Debug\netcoreapp2.1\cv.pdb
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\obj\Debug\netcoreapp2.1\cv.RazorTargetAssemblyInfo.cache
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\obj\Debug\netcoreapp2.1\cv.dll
+C:\Users\vasyl\source\repos\todo-api\first-web-api\cv\obj\Debug\netcoreapp2.1\cv.pdb
